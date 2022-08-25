@@ -1,0 +1,1 @@
+System inventory sample script
